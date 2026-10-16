@@ -1,0 +1,6 @@
+{
+  "name": "Prevención TCA",
+  "description": "Plataforma educativa para la concientización, prevención y detección temprana de trastornos de la conducta alimentaria para familias, docentes y estudiantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
